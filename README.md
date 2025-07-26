@@ -7,7 +7,7 @@ This is my personal portfolio website, where you can learn more about me, view m
 
 ## 🔗 Live Site
 
-👉 [Click here to view my portfolio](https://aiswarya856/portfolio)
+👉 [Click here to view my portfolio](https://aiswarya856.github.io/my-portfolio/)
 
 ## 📁 Project Overview
 
